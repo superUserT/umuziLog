@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("umuziLog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24598915516e8e94fa8fcb81abf6bf7dc17b4f60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+448d917b3dad60142fe8b1c4c3d075a56613d4b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("umuziLog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("umuziLog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
