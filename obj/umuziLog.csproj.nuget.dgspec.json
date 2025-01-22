@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/thabiso/Code/umuziLog/umuziLog/umuziLog.csproj": {}
+    "/home/thabiso/Code/umuziLog/umuziLog.csproj": {}
   },
   "projects": {
-    "/home/thabiso/Code/umuziLog/umuziLog/umuziLog.csproj": {
+    "/home/thabiso/Code/umuziLog/umuziLog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/thabiso/Code/umuziLog/umuziLog/umuziLog.csproj",
+        "projectUniqueName": "/home/thabiso/Code/umuziLog/umuziLog.csproj",
         "projectName": "umuziLog",
-        "projectPath": "/home/thabiso/Code/umuziLog/umuziLog/umuziLog.csproj",
+        "projectPath": "/home/thabiso/Code/umuziLog/umuziLog.csproj",
         "packagesPath": "/home/thabiso/.nuget/packages/",
-        "outputPath": "/home/thabiso/Code/umuziLog/umuziLog/obj/",
+        "outputPath": "/home/thabiso/Code/umuziLog/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/thabiso/.nuget/NuGet/NuGet.Config"
@@ -38,6 +38,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
